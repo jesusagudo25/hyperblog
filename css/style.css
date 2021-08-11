@@ -20,7 +20,7 @@ main{
 }
 
 header{
-    color: white;
+    color: rgb(255, 0, 0);
     font-size: 3.5rem;
     font-weight: bold;
     padding: 1rem;
