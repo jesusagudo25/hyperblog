@@ -69,3 +69,16 @@ img{
     border-radius: 50%;
     border: 10px solid hsl(244, 32%, 45%);;
 }
+
+hr{
+    all: unset;
+}
+
+footer{
+    padding: 1rem;
+    background-color: thistle;
+}
+
+footer p{
+    padding: 0;
+}
