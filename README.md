@@ -9,5 +9,6 @@ Un blog increíble para el [curso de Git y Github](http://google.com "curso de G
 - El verdadero amor por las buenas practicas
 - Trucos muy locos del profesor
 - Las personalidades multíples de Freddy
+- Creado por el increíble Platzi Team
 
 Recordatorio: **Este readme.md es un chiste.**
