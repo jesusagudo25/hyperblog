@@ -10,5 +10,6 @@ Un blog increíble para el [curso de Git y Github](http://google.com "curso de G
 - Trucos muy locos del profesor
 - Las personalidades multíples de Freddy
 - Creado por el increíble Platzi Team
+- Incluye ejemplos en Windoes, Linux y mac
 
 Recordatorio: **Este readme.md es un chiste.**
