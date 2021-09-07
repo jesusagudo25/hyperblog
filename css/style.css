@@ -73,6 +73,18 @@ img{
     border-radius: 50%;
 }
 
+section .chat{
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(2,1fr);
+    border: 1px solid black;
+}
+
+section .chat .grid-item:last-child{
+    background-color: skyblue;
+}
+
+
 hr{
     all: unset;
 }
