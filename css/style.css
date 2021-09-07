@@ -33,6 +33,10 @@ header{
     margin-bottom: 3rem;
 }
 
+header figure{
+    display: inline;
+}
+
 header img{
     width: 5%;
     height: 5%;
@@ -57,7 +61,7 @@ p{
     text-align: justify;
 }
 
-figure{
+article>figure{
     text-align: center;
     padding: 0 2rem;
 }
